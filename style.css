@@ -9,6 +9,7 @@ ul {
 }
 
 ul li {
+    font-family:cursive;
     cursor:pointer;
     position:relative;
     padding:12px 8px 12px 40px;
@@ -61,6 +62,7 @@ ul li.checked::before {
 
 /*Header Style*/
 .header {
+    font-family:monospace;
     background-color:blue;
     padding:30px 40px;
     color:white;
@@ -79,6 +81,7 @@ input {
 }
 
 .addbtn {
+    font-family:Courier New;
     padding:10px;
     width:25%;
     background:purple;
@@ -101,5 +104,3 @@ input {
     background-color:white;
     color:white;
 }
-
-
